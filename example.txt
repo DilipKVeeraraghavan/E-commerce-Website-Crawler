@@ -1,0 +1,333 @@
+CATEGORIES : 
+ ----------------------------------------
+Category : Following
+https://signin.ebay.in/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.in%2Ffeed
+
+Sub Categories :
+------------------------------------------
+
+Category : Deals
+http://deals.ebay.in/ebaydeals/index.php
+
+Sub Categories :
+Deals - Deals of the Week
+http://deals.ebay.in/ebaydeals/deals-of-the-week-60
+
+Deals - Fashion Deals
+http://www.ebay.in/rtl/fashion
+
+Deals - Mobiles Deals
+http://deals.ebay.in/ebaydeals/mobiles-1
+
+Deals - Laptops Deals
+http://deals.ebay.in/ebaydeals/laptops-3
+
+Deals - Television Deals
+http://deals.ebay.in/ebaydeals/televisions-4
+
+Deals - Tablet Deals
+http://deals.ebay.in/ebaydeals/tablets-6
+
+Deals - Cameras Deals
+http://deals.ebay.in/ebaydeals/cameras-2
+
+Deals - Import From The US
+http://geb.ebay.in/g/ImportHubHome
+
+Televisions - Television Deals
+http://deals.ebay.in/ebaydeals/televisions-4
+
+------------------------------------------
+
+Category : Mobile & Accessories
+http://www.ebay.in/cat/mobiles
+
+Sub Categories :
+Mobile & Accessories - Mobiles
+http://www.ebay.in/cat/mobiles
+
+Mobile & Accessories - Mobiles Accessories
+http://www.ebay.in/sch/Mobile-Accessories-/14416/i.html?_from=R40&_nkw=&LH_ItemCondition=3&rt=nc&_dmd=2&LH_BIN=1
+
+Mobile & Accessories - Imported Mobiles
+http://www.ebay.in/sch/Mobile-Phones-/15032/i.html?_from=R40|R40&_nkw&LH_ItemCondition=3&_dcat=15032&rt=nc&_pppn=r1&Warranty=3rd%2520Party%2520Warranty|International%2520Warranty|Seller%2520Warranty
+
+Mobile & Accessories - Sony Mobiles
+http://www.ebay.in/cat/mobiles/brand/Sony
+
+Mobile & Accessories - Apple iPhones
+http://www.ebay.in/cat/mobiles/brand/Apple
+
+Mobile & Accessories - Nokia Mobiles
+http://www.ebay.in/cat/mobiles/brand/Nokia
+
+Mobile & Accessories - Micromax Mobiles
+http://www.ebay.in/cat/mobiles/brand/Micromax
+
+Mobile & Accessories - Samsung Mobiles
+http://www.ebay.in/cat/mobiles/brand/Samsung
+
+------------------------------------------
+
+Category : Laptops & Tablets
+http://www.ebay.in/sch/Laptops-/16159/i.html?_from=R40&_nkw=&LH_BIN=1&LH_ItemCondition=3
+
+Sub Categories :
+Laptops & Tablets - iPads & Tablets
+http://www.ebay.in/cat/tablets
+
+Laptops & Tablets - Laptops
+http://www.ebay.in/sch/Laptops-/16159/i.html
+
+Laptops & Tablets - Computer Peripherals
+http://www.ebay.in/sch/i.html?_odkw=&_from=R40%7CR40&_osacat=178741&_from=R40&_nkw=&_sacat=160
+
+Laptops & Tablets - eBook Readers
+http://www.ebay.in/sch/eBook-Readers-/175084/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+Laptops & Tablets - Printers/Scanners & Cartridges
+http://www.ebay.in/sch/Printers-Scanners-Cartridges-/1245/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+Laptops & Tablets - USB Modem, Router & Networking
+http://www.ebay.in/sch/USB-Modem-Router-Networking-/172717/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+Laptops & Tablets - LCD / TFT Monitors
+http://www.ebay.in/sch/LCD--TFT-Monitors-/29501/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+Laptops & Tablets - Panel PCs (All in One)
+http://www.ebay.in/sch/Panel-PCs-All-in-One-/171569/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+------------------------------------------
+
+Category : Fashion
+http://www.ebay.in/rtl/fashion
+
+Sub Categories :
+Deals - Fashion Deals
+http://www.ebay.in/rtl/fashion
+
+Fashion - Women's Clothing & Acc.
+http://www.ebay.in/rts/events/All-womens/54dddbc1e4b0ae6db19f6d06/178843
+
+Fashion - Men's Clothing & Acc.
+http://www.ebay.in/rts/events/All-mens/54dddd37e4b0acdafc134e82/178840
+
+Fashion - Watches
+http://www.ebay.in/rts/events/Watches/54ddea5de4b019013eef3197
+
+Fashion - Shoes
+http://www.ebay.in/rts/events/Shoes/54ddf2f7e4b051082752b858
+
+Fashion - Jewellery
+http://www.ebay.in/rts/events/Jewellery%20New/54e5da7be4b09d2832a8e89a
+
+Fashion - Baby & Mom's
+http://www.ebay.in/rts/events/BabyCare/54cb30b4e4b0c58aef4b7e7e
+
+Fashion - T-Shirts
+http://www.ebay.in/rts/events/T-shirts-F/54ca3dcbe4b0b936205bae72/177474
+
+Fashion - Bags & Luggage
+http://www.ebay.in/rts/events/Bags+%26+Luggage/545b4c0ae4b0162bd146a2a8/31437
+
+------------------------------------------
+
+Category : Home & Living
+http://www.ebay.in/rtl/home-living
+
+Sub Categories :
+Home & Living - Home Appliances
+http://www.ebay.in/sch/i.html?_odkw=&LH_BIN=1&_from=R40&_osacat=3197&_from=R40&_nkw=&_sacat=20710
+
+Home & Living - Furniture
+http://www.ebay.in/rts/events/Furniture/54ca4102e4b0b936205bd3b8/3197
+
+Home & Living - Kitchen & Dining
+http://www.ebay.in/rts/cat/Kitchen/54ca7182e4b03a0f132a43aa
+
+Home & Living - Home Furnishing
+http://www.ebay.in/rts/events/Bedsheets/54ca353be4b04df996a28bb0/20444
+
+Home & Living - Tools & Hardware
+http://www.ebay.in/rts/events/Tools&Hardware/5461bc62e4b07c02135b6707
+
+Home & Living - Lighting & Fans
+http://www.ebay.in/rts/events/LightingsFans/54ca5785e4b0da869ea3fa73/20697
+
+Home & Living - Home Dcor
+http://www.ebay.in/rts/events/HomeDecor/54ca4e67e4b0da869ea3baa6/10033
+
+Home & Living - Housekeeping & Organisation
+http://www.ebay.in/rts/events/Home+Organisers/54ca42f1e4b0b936205bd3b9/299
+
+------------------------------------------
+
+Category : Cameras
+http://www.ebay.in/cat/cameras
+
+Sub Categories :
+Deals - Cameras Deals
+http://deals.ebay.in/ebaydeals/cameras-2
+
+Cameras - Digital SLR
+http://www.ebay.in/cat/cameras/cameraType/Digital%20SLR
+
+Cameras - Compact Cameras
+http://www.ebay.in/cat/cameras/cameraType/Compact
+
+Cameras - Camera Lenses
+http://www.ebay.in/cat/cameralenses
+
+Cameras - Tripods & Heads
+http://www.ebay.in/sch/Tripods-Heads-/30090/i.html?_sop=12&_from=R40&_nkw=
+
+Cameras - Camera & Camcorder Accessories
+http://www.ebay.in/sch/Camera-Camcorder-Accessories-/170953/i.html?_sop=12&_from=R40&_nkw=
+
+Cameras - Binoculars
+http://www.ebay.in/sch/Binoculars-/83880/i.html?_sop=12&_from=R40&_nkw=
+
+Cameras - Telescopes
+http://www.ebay.in/sch/Telescope-/28179/i.html?_sop=12&_from=R40&_nkw=
+
+Cameras - Camcorders
+http://www.ebay.in/sch/Camcorders-/23781/i.html?_sop=12&_from=R40&_nkw=
+
+------------------------------------------
+
+Category : Televisions
+http://www.ebay.in/cat/televisions
+
+Sub Categories :
+Televisions - LCDs & LEDs
+http://www.ebay.in/cat/televisions
+
+Televisions - 3D LEDs
+http://www.ebay.in/sch/3D-LED-TVs-/175000/i.html?_from=R40&_nkw=&_mPrRngCbx=1&_udlo=40000&_udhi=&_sop=12
+
+Televisions - Television Deals
+http://deals.ebay.in/ebaydeals/televisions-4
+
+Televisions - Set Top Box
+http://www.ebay.in/sch/Set-Top-Box-/177524/i.html?_from=R40&_nkw=
+
+Televisions - Home Theatre & Accessories
+http://www.ebay.in/sch/Home-Theatre-Accessories-/39809/i.html?_from=R40&_nkw&_sop=12&_udlo=1000&_udhi
+
+Televisions - Apple iPods
+http://www.ebay.in/sch/Apple-iPods-/67833/i.html?_udlo=2000&_sop=12&_from=R40|R40|R40&_nkw&_udhi&LH_ItemCondition=3&LH_BIN=1&_dcat=67833&rt=nc&_mPrRngCbx=1
+
+Televisions - Portable Audio & Video
+http://www.ebay.in/sch/Portable-Audio-Video-/15052/i.html?_udlo=&_sop=12&_from=R40%7CR40%7CR40&_nkw=&_udhi=
+
+Televisions - Head Phones, Head Sets
+http://www.ebay.in/sch/Head-Phones-Head-Sets-/40135/i.html?_from=R40&_nkw=
+
+Televisions - Gaming Consoles & Accessories
+http://www.ebay.in/sch/Games-Consoles-Accessories-/1249/i.html?_udlo=500&_sop=12&_from=R40|R40&_nkw=&_udhi=&LH_BIN=1&_dcat=1249&rt=nc&LH_ItemCondition=1000
+
+------------------------------------------
+
+Category : Health & Beauty
+http://www.ebay.in/rts/events/Health&Beauty/54eef044e4b0c67846af2e4b
+
+Sub Categories :
+Health & Beauty - Perfumes & Deo
+http://www.ebay.in/rts/events/Fragrances2/54ad3ef6e4b087531c3e1089
+
+Health & Beauty - Personal Care Devices
+http://www.ebay.in/rts/cat/Shaving%20&%20Hair%20Removal/54ca1b51e4b087531c3e74bd
+
+Health & Beauty - Fitness & Sports
+http://www.ebay.in/rts/events/Sports%20and%20Fitness%20Upto%2060%25%20off/541ad2b9e4b0e6eb27cedbcc
+
+Health & Beauty - Beauty
+http://www.ebay.in/rts/events/Beauty%20Products/539ea7e36279cbd9d5503c2f
+
+Health & Beauty - Hair Care
+http://www.ebay.in/rts/cat/Hair%20Care/538f20786279cbd9d54e8d8f/11854
+
+Health & Beauty - Bath & Spa
+http://www.ebay.in/rts/events/Bath+and+Spa/538ef1e465ac1bee2c53392c/11838
+
+Health & Beauty - Sexual & Wellness
+http://www.ebay.in/rts/events/Sexual%20Wellness/54589a67e4b0162bd1465621
+
+Health & Beauty - Nutrition & Supplements
+http://www.ebay.in/rts/events/Protein+%26+Supplement+Upto+35%25+Off/541bd691e4b0bffe976edb4b/175904
+
+------------------------------------------
+
+Category : All Electronics
+http://deals.ebay.in/ebaydeals/index.php
+
+Sub Categories :
+All Electronics - Hard Disk Drives
+http://www.ebay.in/sch/Hard-Disk-Drives-/168993/i.html?LH_BIN=1&_dcat=168993&rt=nc&LH_ItemCondition=1000
+
+All Electronics - Memory Cards & Readers
+http://www.ebay.in/sch/Memory-Cards-Readers-/18867/i.html?LH_BIN=1&_dcat=18867&rt=nc&LH_ItemCondition=1000
+
+All Electronics - Pen Drives
+http://www.ebay.in/sch/Pen-Drives-/51071/i.html?LH_BIN=1&_dcat=51071&rt=nc&LH_ItemCondition=1000
+
+All Electronics - Health & Personal Care Devices
+http://www.ebay.in/rts/events/Personal%20Grooming%20Products/5492d82fe4b0da869ea1c922
+
+All Electronics - Car Electronics
+http://www.ebay.in/chp/Car-Electronics-/169891
+
+All Electronics - HDD DIVX Media Players
+http://www.ebay.in/sch/HDD-DIVX-Media-Players-/172306/i.html?_from=R40&_nkw=
+
+All Electronics - Software
+http://www.ebay.in/sch/Software-/181/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+All Electronics - Laptop Batteries & Adapters
+http://www.ebay.in/sch/Laptop-Batteries-Adapters-/180213/i.html?_from=R40%7CR40%7CR40%7CR40%7CR40&_nkw=
+
+------------------------------------------
+
+Category : More...
+javascript:;
+
+Sub Categories :
+------------------------------------------
+
+
+PRODUCTS : 
+ ----------------------------------------
+
+Title : Refurbished Xiaomi Redmi Note 4G (White, 8GB)
+Image URL : http://ecx.images-amazon.com/images/I/4173OmJma0L._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Oneplus Two (64GB, Sandstone Black)
+Image URL : http://ecx.images-amazon.com/images/I/41MSEOvn3RL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished OnePlus X E1003 (Onyx)
+Image URL : http://ecx.images-amazon.com/images/I/41Tc55-fvDL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Phicomm Energy 653 (Black)
+Image URL : http://ecx.images-amazon.com/images/I/41zfpgcS6xL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished OnePlus One (Sandstone Black)
+Image URL : http://ecx.images-amazon.com/images/I/41duggh4m1L._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Mi 4 (White)
+Image URL : http://ecx.images-amazon.com/images/I/412IcIJghUL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Meizu m2 (Dark Grey, 16GB)
+Image URL : http://ecx.images-amazon.com/images/I/41A1Jij%2B16L._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Asus Zenfone 5 (16 GB, Black)
+Image URL : http://ecx.images-amazon.com/images/I/41stxBhscnL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Infocus M810 (Gold)
+Image URL : http://ecx.images-amazon.com/images/I/41AIBlRFcXL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Samsung Galaxy Mega 6.3 GT-I9200 (Black)
+Image URL : http://ecx.images-amazon.com/images/I/51wp77ZEl3L._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Samsung Galaxy S5 SM-G900 (White)
+Image URL : http://ecx.images-amazon.com/images/I/51MY--GD2AL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Samsung Galaxy Core Prime SM-G360 (Charcoal Grey)
+Image URL : http://ecx.images-amazon.com/images/I/41U6%2BiwI14L._SX300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Samsung Galaxy Core Prime SM-G360 (Silver)
+Image URL : http://ecx.images-amazon.com/images/I/41Feed%2BF-cL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Samsung Galaxy Note 4 N910G (Black)
+Image URL : http://ecx.images-amazon.com/images/I/51H759hX1yL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Samsung Galaxy A3 (Gold)
+Image URL : http://ecx.images-amazon.com/images/I/51USA3Y4SqL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Refurbished Google Nexus 5 D821 (16GB, Black)
+Image URL : http://ecx.images-amazon.com/images/I/51tLadYu0vL._SY300_QL70_.jpg
+ - - - - - - - - - - - - - - - - - - - Title : Ref
