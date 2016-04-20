@@ -74,6 +74,9 @@ def amazon_enterItemPage(url):
             title = link.string
             print(title)
             fw.write("Title : "+title +'\n')
+            print(url)
+            fw.write(url+'\n')
+
             for sublink in obj.findAll('img',{'id':'landingImage'}):
                 img = sublink.get('src')
                 print("Image URL : " +img+'\n')
@@ -106,6 +109,8 @@ def flipkart_enterItemPage(url):
             title = link.string
             print(title)
             fw.write("Title : "+title +'\n')
+            print(url)
+            fw.write(url+'\n')
             for sublink in obj.findAll('img',{'class':'productImage  current'}):
                 img = sublink.get('src')
                 print("Image URL : " +img+'\n')
@@ -135,6 +140,8 @@ def ebay_enterItemPage(url):
             title = link.string
             print(title)
             fw.write("Title : "+title +'\n')
+            print(url)
+            fw.write(url+'\n')
             for sublink in obj.findAll('img',{'itemprop':'image'}):
                 if(title in sublink.get('title')):
                     img = sublink.get('src')
